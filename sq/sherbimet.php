@@ -127,7 +127,7 @@
           <div class="icon-box">
             <i class="bi bi-display"></i>
             <h4><a href="#">Menaxhimi i mediave sociale</a></h4>
-            <p>  Prezenca kompanisë tuaj ne Media Sociale, bërë siç duhet, u tregon konsumatorëve se marka juaj është aktive dhe fokusohet në komunikim efikas me konsumatorët. Gjithashtu ju ndihmon të arrini kosto të reduktuara të marketingut dhe rritje të shitjeve. Prandaj na kontaktoni dhe ne do tua vërtetojmë.
+            <p>  Prezenca kompanisë tuaj ne Media Sociale, bërë siç duhet, u tregon konsumatorëve se marka juaj është aktive dhe fokusohet në komunikim efikas me konsumatorët. Gjithashtu ju ndihmon të arrini kosto të reduktuara të marketingut dhe rritje të shitjeve.<br> Pse? Për shkak se media sociale ofron mundësi të mëdha për të bërë para - me kusht që të menaxhoni kanalet tuaja sociale në një mënyrë të organizuar, efikase. Pra na kontaktoni dhe ne do ta konfirmojmë atë. Prandaj na kontaktoni dhe ne do tua vërtetojmë.
 </p>
           </div>
         </div>

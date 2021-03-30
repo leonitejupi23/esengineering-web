@@ -129,7 +129,7 @@ We are a team of professionals who can create innovative solutions from scratch,
           <div class="icon-box">
             <i class="bi bi-display"></i>
             <h4><a href="#">Social media management</a></h4>
-            <p> Your company's presence on Social Media, properly done, shows customers that your brand is active and focuses on efficient communication with customers. It also helps you achieve reduced marketing costs and increased sales. So contact us and we will confirm it.</p>
+            <p> Your company's presence on Social Media, properly done, shows customers that your brand is active and focuses on efficient communication with customers. It also helps you achieve reduced marketing costs and increased sales.<br>Why? Because social media provides great money-making opportunities – on the condition you manage your social channels in an organized, efficient way. So contact us and we will confirm it.</p>
           </div>
         </div>
         <div class="col-md-4 mt-4 mt-md-0">
